@@ -1,5 +1,3 @@
-![I am a Web Developer](https://media.licdn.com/dms/image/C4E16AQEx__t03sM8Pg/profile-displaybackgroundimage-shrink_350_1400/0/1635636007649?e=1704326400&v=beta&t=puR76noa7CFG1vh9R1K0SRpgkgDJf49dAtc2Y1ZYgJE)
-
 ## Hi there 👋, my name is Shabbir
 ### I am a Web Developer
 
